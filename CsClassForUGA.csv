@@ -1,0 +1,116 @@
+Course Number,Course Name,Requirements
+csci-53107310,Web Composing and Scripting,"Undergraduate Students: CSCI 1100-1100L or CSCI 1301-1301L
+Graduate Students: CSCI 7010"
+csci-40506050,Software Engineering,"Fall
+Spring"
+csci-4050e6050e,Software Engineering,CSCI 2720 or CSCI 2725
+csci-40606060,Mobile Software Development,CSCI 2720
+csci-40706070,Introduction to Game Programming,CSCI 1730
+csci-40806080,Intermediate Game Programming,CSCI 4070/6070
+csci-41306130,CUDA C Programming on GPUs for High Performance Computing,CSCI 1730 or Permission of Department
+csci-41406140,Numerical Methods and Computing,CSCI 1730 and MATH 2250 and CSCI 2150-2150L
+csci-41506150,Numerical Simulations in Science and Engineering,(MATH 2250 and CSCI 1301-1301L) or Permission of Department
+csci-41706170,Introduction to Computational Investing,CSCI 1730
+csci-42106210,Simulation and Modeling,CSCI 2720 or CSCI 2725
+csci-42506250,Cyber Security,CSCI 4730/6730 or CSCI 4760/6760
+csci-42606260,Data Security and Privacy,CSCI 1302
+csci-42706270,Introduction to Computer Forensics,CSCI 4730/6730 or CSCI 4250/6250
+csci-43306330,Artificial Intelligence and the Web,CSCI 2720
+csci-43506530,Global Information Systems,"Undergraduate Students: CSCI 4300
+Graduate Students: Permission of Department"
+csci-43606360,Data Science II,CSCI 3360
+csci-43706370,Database Management,CSCI 2720 or CSCI 2725
+csci-stat-6375,Foundations of Data Science,Permission of department
+csci-43806380,Data Mining,CSCI 2720 or CSCI 2725
+csci-44706470,Algorithms,(CSCI 2720 or CSCI 2725) and CSCI 2670
+csci-6480,Approximation Algorithms,CSCi 2670 or Permission of Department
+csci-44906490,Algorithms for Computational Biology,CSCI 4470/6470 or Permission of Department
+csci-45006500,Programming Languages,CSCI 1302
+csci-45206520,Functional Programming,CSCI 2720 and CSCI (MATH) 2610
+csci-arti-45306530,Introduction to Robotics,"Undergraduate Students: (CSCI 2610 or CSCI 2611) and CSCI 2720
+Graduate Students: Permission of Department"
+csci-arti-45406540,Symbolic Programming,CSCI 1302 or Permission of Department
+csci-phil-45506550,Artificial Intelligence,CSCI (MATH) 2610 or PHIL 2500
+csci-45606560,Evolutionary Computation and Its Applications,"Undergraduate Students: CSCI 2720 or CSCI 2725
+Graduate Students: CSCI 2720 or CSCI 2725"
+csci-45706570,Compilers,"Undergraduate Students: CSCI 4720
+Graduate Students: CSCI 6720"
+csci-arti-46006600,Reinforcement Learning,CSCI(PHIL) 4550/6550
+csci-6610,Automata and Formal Languages,CSCI 2670
+csci-math-phys-46126612,Introduction to Quantum Computation,CSCI 2670 and MATH 3000
+math-csci-46706670,Combinatorics,MATH 3000 or MATH 3300 or MATH 3500 or MATH 3500H or CSCI (MATH) 2610 or MATH 3200
+math-csci-46906690,Graph Theory,CSCI (MATH) 2610 or MATH 3200
+csci-6720,Computer Systems Architecture,CSCI 4720
+csci-47306730,Operating Systems,"Undergraduate Students: (CSCI 4720 or CSEE 4280) and CSCI 2720
+Graduate Students: CSCI 6720"
+csci-47406740,Real-Time Scheduling for Internet of Things,CSCI 2720
+csci-47606760,Computer Networks,CSCI 2720 and (CSCI 2670 or CSCI 2670E or CSEE 2220 or CSEE 2220E)
+csci-47706770,Ubiquitous Computing,CSCI 2720
+csci-47806780,Distributed Computing Systems,CSCI 2720 and CSCI 1730
+csci-47956795,Cloud Computing,CSCI 2720
+csci-48006800,Human-Computer Interaction,"Undergraduate Students: CSCI 1302
+Graduate Students: CSCI 2720"
+csci-48106810,Computer Graphics,CSCI 1302
+csci-48306830,Virtual Reality,CSCI 2720
+cbio-csci-48356835,Introduction to Computational Biology,"Graduate
+Undergraduate"
+csci-48406840,Signal Processing,CSCI 2720 or permission of department
+csci-48506850,Biomedical Image Analysis,CSCI 2720 or Permission of Department
+csci-49006900,Special Topics in Computer Science,Permission of Department
+engrcsci-6922,Computer Systems Engineering Design Project,Permission of department
+csci-49506950,Directed Study in Computer Science,Permission of Department
+csci-7000,Master's Research,Permission of Department
+csci-7005,Graduate Student Seminar,Permission of Department
+csci-7007,Internship in Computer Science Business/Industry,Permission of Department
+csci-7010,Computer Programming,MATH 1113
+csci-7100,Technical Report,Permission of Department
+csci-7200,Master's Project,Permission of Department
+csci-7300,Master's Thesis,Permission of Department
+csci-53107310,Web Composing and Scripting,"Undergraduate Students: CSCI 1100-1100L or CSCI 1301-1301L
+Graduate Students: CSCI 7010"
+csci-8000,Advanced Special Topics in Computer Science,Permission of department
+csci-8050,Knowledge-Based Systems,[CSCI (ARTI) 4540/6540 and CSCI (PHIL) 4550/6550] or Permission of Department
+csci-8060,Advanced Software Engineering,CSCI 4050/6050 and CSCI 4370/6370
+csci-8140,Parallel Processing and Computational Science,CSCI 4140/6140 and CSCI 6720
+csci-8150,Advanced Numerical Methods and Scientific Computing,CSCI 4140/6140 or CSCI 4150/6150
+csci-8220,Parallel and Distributed Simulation,CSCI 4730/6730 or CSCI 4210/6210
+csci-8240,Software Security and Cyber Forensics,CSCI 4730/6730 or CSCI 4250/6250 or Permission of Department
+csci-8245,Secure Programming,Graduate
+csci-8250,Advanced Cyber Security,CSCI 4250/6250 or CSCI 4760/6760
+csci-8260,Computer Network Attacks and Defenses,CSCI 4760/6760 or CSCI 4250/6250 or Permission of Department
+csci-8265,Trustworthy Machine Learning,CSCI 4260/6260 or permission of department
+csci-8350,Enterprise Integration,(CSCI 4370/6370 or CSCI 4570/6570) and Permission of Department
+csci-8360,Data Science Practicum,CSCI 4360/6360 or CSCI 4380/6380 or Permission of Department
+csci-8370,Advanced Database Systems,CSCI 4370/6370 and CSCI 4730/6730
+csci-8380,Advanced Topics in Information Systems,CSCI 4370/6370 or CSCI 4050/6050
+csci-8470,Advanced Algorithms,CSCI 4470/6470 and CSCI 6610
+csci-8530,Advanced Topics in Robotics,CSCI (ARTI) 4530/6530 and (CSCI 4500/6500 or CSCI 1730) or Permission of Department
+csci-8535,Multi-Robot Systems,CSCI (ARTI) 4530/6530 and (CSCI 4500/6500 or CSCI 1730 or Permission of Department)
+csci-ling-8570,Natural Language Processing Techniques,[CSCI (ARTI) 4540/6540 and LING 8150] or Permission of Department
+csci-8610,Topics in Theoretical Computer Science,CSCI 4470/6470 and CSCI 6610
+csci-math-phys-8612,Topics in Quantum Computation,CSCI 6610 and CSCI (MATH )(PHYS) 4612/6612
+phys-math-csci-8615,Quantum Information Science Seminar,Graduate
+csci-phil-8650,Logic and Logic Programming,[CSCI (ARTI) 4540/6540 and PHIL (LING)4 510/6510] or Permission of Department
+csci-8720,Advanced Computer Architecture,CSCI 6720
+csci-8730,Advanced Topics in Operating Systems,CSCI 4730/6730
+csci-8740,Advanced Topics in Real-Time Scheduling,Graduate
+csci-8780,Advanced Topics in Distributed Systems,At least one of the following: CSCI 4730/6730 or CSCI 4760/6760 or CSCI 4370/6370
+csci-8790,Advanced Topics in Data Intensive Computing,CSCI 4370/6370 or Permission of Department
+csci-8795,Advanced Topics in Cloud Computing,CSCI 4730/6730 or CSCI 4780/6780 or Permission of Department
+csci-8810,Image Processing and Computer Graphics,CSCI 4810/6810 or Permission of Department
+csci-8820,Computer Vision and Pattern Recognition,CSCI 4810/6810 or Permission of Department
+csee-csci-8840,Advanced Image Analysis,CSEE 4630 or ENGR 4540/6540 or CSCI 8810 or CSCI 8820 or Permission of Department
+csci-8850,Advanced Biomedical Image Analysis,CSCI 4850/6850 or Permission of Department
+csci-8860,Biomedical Informatics,CSCI 4850/6850 or Permission of Department
+csci-8920,Decision Making Under Uncertainty,CSCI 4470/6470 or Permission of Department
+csci-engr-8940,Computational Intelligence,CSCI (PHIL) 4550/6550 or Permission of Department
+csci-8945,Advanced Representation Learning,(CSCI 4380/6380 and CSCI (PHIL) 4550/6550) or Permission of Department
+csci-arti-8950,Machine Learning,CSCI (PHIL) 4550/6550 or CSCI 4560/6560 or Permission of Department
+csci-8951,Large-Scale Optimization for Machine Learning,CSCI 4360/6360 or CSCI 4380/6380 or permission of department
+csci-8955,Advanced Data Analytics: Statistical Learning and Optimization,CSCI 4150/6150 or CSCI 4380/6380 or Permission of Department
+csci-8960,Privacy-Preserving Data Analysis,CSCI 4380/6380 or Permission of Department
+csci-8965,Internet of Things Security,CSCI 4730/6730 or Permission of Department
+csci-8990,Research Seminar,Permission of Department
+csci-9000,Doctoral Research,Permission of Department
+csci-9005,Doctoral Graduate Student Seminar,Permission of Department
+csci-9300,Doctoral Dissertation,Permission of Department
